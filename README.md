@@ -12,22 +12,24 @@ The protocol is as follows:
 
 
 **To Run the Program**
+
 Split the terminal in 2.
 
 On the server side:
 
-gcc server.c -o server
+    gcc server.c -o server
 
-./server [port number]
+    ./server [port number]
 
 On the client side:
 
-gcc client.c -o client
+    gcc client.c -o client
 
 ./client [port number]
-
+    
 Note: This program runs of Linux
 
 **Helpful Resources**
-Checking out the textbook and videos by prof Jim Kurose to learn about TCP, networking and socket programming:
+
+Check out the textbook and videos by prof Jim Kurose to learn about TCP, networking and socket programming:
 http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm
