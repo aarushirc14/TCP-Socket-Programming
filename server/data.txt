@@ -1,0 +1,2 @@
+This is some data from the server that will be written into recieved_data.txt 
+in the client directory if the generated passcode between the client and the server match.
