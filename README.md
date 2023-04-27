@@ -27,7 +27,7 @@ On the client side:
 
     ./client [port number]
     
-**Note: This program runs on Linux**
+**Note: This program runs on Linux and you must use the same port number when running the client and server.**
 
 **Helpful Resources**
 
