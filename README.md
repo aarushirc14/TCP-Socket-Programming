@@ -1,4 +1,4 @@
-**This is a simple application of socket programming with TCP (Transmission Control Protocol).**
+## This is a simple application of socket programming with TCP (Transmission Control Protocol). ##
 
 The protocol is as follows:
 1.  Client connects to server and is prompted to enter an 8 digit ID.
@@ -25,9 +25,9 @@ On the client side:
 
     gcc client.c -o client
 
-./client [port number]
+    ./client [port number]
     
-Note: This program runs of Linux
+**Note: This program runs on Linux**
 
 **Helpful Resources**
 
